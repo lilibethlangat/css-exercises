@@ -1,0 +1,29 @@
+.little, .final{
+    background-color: pink;
+    font-weight:500;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#one{
+    color: blue;
+    font-weight: 600px;
+    font-size: 36px;
+
+}
+.cool{
+    background-color: pink;
+    font-weight:bold;
+    font-size:24px;
+
+}
+#dear{
+    background-color: greenyellow;
+    font-weight:bold;
+    font-size: 24px;
+
+}
+/* .final{
+    background-color: pink;
+    font-size: 28px;
+    font-weight: 500;
+} */
